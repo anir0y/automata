@@ -1,8 +1,9 @@
 # automata
 A WebEX API to telegram Bot
 
+#### Make sure you have JQ installed if not [download](https://stedolan.github.io/jq/)
 
-# API/Access tokes requires
+# API requires
 * WebEx API : bareer Token.
 * Telegram Chat ID
 * Telegram Bot KEY (@botfather)
