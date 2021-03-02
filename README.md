@@ -1,7 +1,7 @@
 # automata
 A WebEX API to telegram Bot
 
-### Porpose?
+### why?
 As a trainer, I use WebEx for hosting the meeting and record all meetings that are stored over Cloud. Now the Problem is sharing those recorded videos with the students. The only way is, login to WebEx website and get the link & Password from there and share with students. Now, my problem is these recordings takes around 30-90 mintues for rendering and availble for download. mostly because of this wait time I miss or forget that I have to share. So, I came up this solution that I've using for last few months. this uses WebEx API to fetch the recordings and uses telegram Bot to share over telegram Group. 
 
 
