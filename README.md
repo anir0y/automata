@@ -31,7 +31,7 @@ simple replace {TOKEN} with token e.g:
  - [x] push to github 
 
 # liked it?
->> thanks :) 
+> thanks :) 
 
 # Contribution
 Contributions are welcome. send a PR!!
